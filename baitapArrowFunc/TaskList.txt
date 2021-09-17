@@ -1,0 +1,12 @@
+I/ Bài tập 1: Đổi màu ngôi nhà
+    1, Tạo hàm ArrowFunction load danh sách các ô màu
+    2, Tạo hàm ArrowFunction đổi màu ngôi nhà
+
+II/ Bài tập 2 : Tính điểm trung bình
+    + Sử dụng kết hợp hàm ArrowFunction & ResParam => Hàm tính điểm trung bình
+
+III/ Bài tập 3 : Xây dựng hàm ArrowFunction thêm hiệu ứng jump text
+    + Lấy nội dung text "Hover Me!" của class heading
+    + Sử dụng Spread Operator để tách từng ký tự của text "Hover Me!" => ["H","0","v","e","r","M","e","!"]
+    + Tạo các thẻ span chứa các ký tự chữ sau khi đã tách được & thêm các thẻ span đó vào thẻ heading
+    
